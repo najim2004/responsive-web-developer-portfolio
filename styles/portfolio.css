@@ -297,10 +297,22 @@ textarea {
     }
     .banner{
         flex-direction: column;
-        padding: auto;
+        padding: 30px;
+   
     }
     .banner .profile-pic {
+        text-align: center;
+        margin: auto;
         width: 100%;
+    }
+    .button-primary{
+        margin-top: 10px;
+    }
+    .banner-content{
+        width: 300px;
+    }
+    .header{
+        background-image: none;
     }
 }
 
