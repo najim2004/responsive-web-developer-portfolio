@@ -113,6 +113,10 @@ main section {
 }
 
 /* about section style */
+.about-section{
+    display: flex;
+    justify-content: center;
+}
 .about {
     padding: 150px;
     border-radius: 10px;
